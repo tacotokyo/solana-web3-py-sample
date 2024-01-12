@@ -1,0 +1,1 @@
+anchorpy client-gen --program-id KLend2g3cP87fffoy8q1mQqGKjrxjC8boSyAYavgmjD ./KLend2g3cP87fffoy8q1mQqGKjrxjC8boSyAYavgmjD.idl.json ./kamino_lending_program
